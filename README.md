@@ -39,32 +39,39 @@ Hello world
          <div>Addres: {{Addres}}</div>  
    </div>
 
+```
 ### result 
 Id: 123456789
 Name: David King
 Addres: New York
 
 
-```
 ### Bind list objects
 ```javascript
- var Person = [{
+ var Persons = [{
             Id: 123456789,
             Name: "David King",
             Addres:"New York"
         },
-            Id: 987654321,
-            Name: "Jhon doe",
-            Addres:"Tel Aviv"
+            {
+                Id: 987654321,
+                Name: "Jhon doe",
+                Addres: "Tel Aviv"
+            }
         ]
 ```
 ```html
-<div style="display:none" clientSource="Person">       
-         <div>Id: {{Id}} </div>
-         <div>Name: {{Name}}</div>  
-         <div>Addres: {{Addres}}</div>  
-   </div>
+<div style="padding-top:10px">
+     <span>Id: {{Id}} </span>
+     <span>Name: {{Name}}</span>    
+     <span>Addres: {{Addres}}</span>       
+ </div>
 
 ```
+
+### result 
+
+Id: 123456789 Name: David King Addres: New York
+Id: 987654321 Name: Jhon doe Addres: Tel Aviv
 
 
