@@ -63,11 +63,13 @@ Addres: New York
         ]
 ```
 ```html
-<div style="padding-top:10px">
-     <span>Id: {{Id}} </span>
-     <span>Name: {{Name}}</span>    
-     <span>Addres: {{Addres}}</span>       
- </div>
+<div style="display:none" clientSource="Persons">              
+         <div style="padding-top:10px">
+             <span>Id: {{Id}} </span>
+             <span>Name: {{Name}}</span>    
+             <span>Addres: {{Addres}}</span>       
+         </div>
+   </div>
 
 ```
 
