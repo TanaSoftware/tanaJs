@@ -18,7 +18,7 @@ var myWorld = 'world';
  </div>
 
 ```
-# result :
+## result 
 
 Hello world
 
