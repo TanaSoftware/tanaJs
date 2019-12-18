@@ -7,10 +7,10 @@ tanaJs is small library for building easy web siteS for all kind of developers f
 
 var myWorld = 'world';
 
-# <div style="display:none" clientSource="myWorld">
-#    <div>           
-#      <span>Hello </span> {{myWorld}}
-#    </div> 
-# </div>
+[ <div style="display:none" clientSource="myWorld">
+    <div>           
+     <span>Hello </span> {{myWorld}}
+    </div> 
+ </div>]
 
 
