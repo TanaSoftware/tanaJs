@@ -5,7 +5,9 @@ tanaJs is small library for building easy web siteS for all kind of developers f
 
 1. example
 
+<script>
 var myWorld = 'world';
+</script>    
 ```html
 <div style="display:none" clientSource="myWorld">
     <div>           
