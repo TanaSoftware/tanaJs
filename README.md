@@ -5,7 +5,7 @@ tanaJs is a small library for building easy web sites for all kind of developers
 and for developing across all platforms.
 Its purpose is to reduce javascript code and simplify coding.
 
-1. example
+# examples
 
 ```javascript
 var myWorld = 'world';
@@ -18,6 +18,9 @@ var myWorld = 'world';
  </div>
 
 ```
+# result :
+
+Hello world
 
 ```javascript
  var Person = {
