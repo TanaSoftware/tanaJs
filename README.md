@@ -7,7 +7,7 @@ Its purpose is to reduce javascript code and simplify coding.
 
 # examples
 
-### Bind string 
+### 1. Bind string 
 ```javascript
 var myWorld = 'world';
 ```
@@ -24,7 +24,7 @@ var myWorld = 'world';
 
 Hello world
 
-### Bind object
+### 2. Bind object
 ```javascript
  var Person = {
             Id: 123456789,
@@ -48,7 +48,7 @@ Name: David King
 Addres: New York
 
 
-### Bind list objects
+### 3. Bind list objects
 ```javascript
  var Persons = [{
             Id: 123456789,
