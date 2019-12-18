@@ -6,12 +6,13 @@ tanaJs is small library for building easy web siteS for all kind of developers f
 1. example
 
 var myWorld = 'world';
-<html>
+```html
 <div style="display:none" clientSource="myWorld">
     <div>           
      <span>Hello </span> {{myWorld}}
     </div> 
  </div>
 </html>
+```
 
 
