@@ -5,7 +5,7 @@ tanaJs is a small library for building easy web sites for all kind of developers
 and for developing across all platforms.
 Its purpose is to reduce javascript code and simplify coding.
 
-# 1. Bind data from javascript objects.
+# 1. Bind data from javascript objects:
 
 # examples
 
@@ -86,3 +86,19 @@ Id: 123456789 Name: David King Addres: New York
 Id: 987654321 Name: Jhon doe Addres: Tel Aviv
 
 sample in jsfiddle : http://jsfiddle.net/7Lmrbyeg/
+
+# 2. Bind data from server side:
+
+```html
+<div id="dvAjax" style="display:none" source="user/GetCities">
+   <ul>           
+     <li>{{Id}} {{Name}}</li>
+   </ul> 
+</div>
+```
+### result 
+
+1 New york
+2 Tel aviv
+
+sample in website : http://tana.somee.com/Rest.html  (click right mouse to see page source)
