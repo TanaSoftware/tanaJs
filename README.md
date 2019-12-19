@@ -5,6 +5,8 @@ tanaJs is a small library for building easy web sites for all kind of developers
 and for developing across all platforms.
 Its purpose is to reduce javascript code and simplify coding.
 
+# 1. Bind data from javascript objects.
+
 # examples
 
 ### 1. Bind string 
