@@ -24,6 +24,8 @@ var myWorld = 'world';
 
 Hello world
 
+link : http://jsfiddle.net/w8afcLno/
+
 ### 2. Bind object
 ```javascript
  var Person = {
