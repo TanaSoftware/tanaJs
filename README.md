@@ -24,7 +24,7 @@ var myWorld = 'world';
 
 Hello world
 
-sample in jsfiddle : [go]http://jsfiddle.net/jbaLn3ko/){:target="_blank" rel="noopener"} 
+sample in jsfiddle : http://jsfiddle.net/jbaLn3ko/
 
 ### 2. Bind object
 ```javascript
