@@ -90,7 +90,7 @@ sample in jsfiddle : http://jsfiddle.net/7Lmrbyeg/
 # 2. Bind data from server side:
 
 ```html
-<div id="dvAjax" style="display:none" source="user/GetCities">
+<div style="display:none" source="user/GetCities">
    <ul>           
      <li>{{Id}} {{Name}}</li>
    </ul> 
