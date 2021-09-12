@@ -85,7 +85,7 @@ Id: 123456789 Name: David King Addres: New York
 
 Id: 987654321 Name: Jhon doe Addres: Tel Aviv
 
-sample in jsfiddle : http://jsfiddle.net/7Lmrbyeg/
+sample in jsfiddle : http://jsfiddle.net/507tyac2/
 
 # 2. Bind data from server side:
 
