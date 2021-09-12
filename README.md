@@ -52,7 +52,7 @@ Name: David King
 Addres: New York
 
 
-sample in jsfiddle : http://jsfiddle.net/w8afcLno/2/
+sample in jsfiddle : http://jsfiddle.net/c8akermh/
 
 ### 3. Bind list objects
 ```javascript
