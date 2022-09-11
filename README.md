@@ -26,7 +26,7 @@ var myWorld = 'world';
 
 Hello world
 
-sample in jsfiddle : http://jsfiddle.net/brk4pe0y/
+sample in jsfiddle : http://jsfiddle.net/djx83uvy/1/
 
 ### 2. Bind object
 ```javascript
@@ -52,7 +52,7 @@ Name: David King
 Addres: New York
 
 
-sample in jsfiddle : http://jsfiddle.net/c8akermh/
+sample in jsfiddle : http://jsfiddle.net/ys97k4o5/
 
 ### 3. Bind list objects
 ```javascript
@@ -85,7 +85,7 @@ Id: 123456789 Name: David King Addres: New York
 
 Id: 987654321 Name: Jhon doe Addres: Tel Aviv
 
-sample in jsfiddle : http://jsfiddle.net/507tyac2/
+sample in jsfiddle : http://jsfiddle.net/u6ozcvnx/1/
 
 # 2. Bind data from server side:
 
